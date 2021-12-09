@@ -3,6 +3,9 @@ package solution
 import kotlin.math.abs
 import kotlin.math.pow
 
+/**
+ * https://leetcode.com/problems/reverse-integer/
+ */
 fun reverse(x: Int): Int {
     var answer = 0
     var xNum = x
